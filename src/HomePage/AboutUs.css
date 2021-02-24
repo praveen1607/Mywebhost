@@ -1,0 +1,143 @@
+
+.about-1{
+    width: 100%;
+    height:150px;
+    background-color: rgba(195,196,191,255);
+    margin: 0%;
+    padding: 0%;
+
+}
+.about11{
+    margin: 0%;
+    padding: 0%;
+    text-align: center;
+    padding-top: 50px;
+    color: rgb(57,67,86);
+}
+.clear{
+    margin: 0px;
+}
+.center1{
+    text-align: center;
+    color: darkred;
+    margin: 0%;
+}
+.center2{
+    text-align: center;
+    color:black;
+    margin: 0%;
+}
+.AboutUs-1-h1{
+    width: 100%;
+    text-align: center;
+}
+
+.AboutUS-1{
+    width: 100%;
+    margin: 0%;
+}
+
+.AboutUS-1-1{
+    float: left;
+    width: 40%;
+   
+    margin-right: 5%;
+    margin-left: 5%;
+}
+.AboutUS-1-2{
+    float: left;
+    width: 40%;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+.button11{
+    font-size: 15px;
+    text-align: center;
+    border-style: solid;
+    width: 200px;
+    margin-left:40%;
+    padding: 5px;
+    color:#d11140;
+    border-color: #d11140;
+    text-decoration: none;
+}
+
+.button11:hover{
+    background-color: #d11140;
+    color: white;
+}
+.space{
+    margin-bottom: 5%;
+    margin-top: 5%;
+}
+
+.AboutUs-2-1{
+ 
+    border: 1px solid darkred;
+    width: 20%;
+    float: left;
+    padding:20px;
+    margin-right: 10px;
+}
+
+.AboutUs-3-1{
+float: left;
+width: 20%;
+margin: 5%;
+
+}
+.AboutUs-3-2{
+float: left;
+width: 60%;
+margin: 5%;
+
+}
+.Meet{
+    color:#d11140 ;
+    margin: 0%;
+}
+.foun{
+    font-size: 20px;
+    margin: 0%;
+}
+.Rob{
+    font-size: 20px;
+    margin: 0%;
+}
+.Rob1{
+    font-size: 20px;
+    color: gray;
+    margin: 0%;
+}
+.matter{
+    font-size: 14px;
+}
+.last{
+    text-align: center;
+    color:#d11140 ;
+}
+.container {
+    position: relative;
+    text-align: center;
+
+  }
+  
+.centered {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .centered5 {
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  html {
+    scroll-behavior: smooth;
+  }
+  .k{
+      color:lightblue;
+      text-decoration: none;
+  }
